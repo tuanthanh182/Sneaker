@@ -1,0 +1,8 @@
+2023-11-09T06:01:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Sneaker\wp-includes\Requests\src\Transport\Curl.php on line 535
+
+2023-11-09T06:03:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Sneaker\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2023-11-09T06:22:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Sneaker\wp-includes\Requests\src\Transport\Curl.php on line 534
+
+2023-11-09T12:21:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Sneaker\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\collections\lib\Doctrine\Common\Collections\ArrayCollection.php on line 153
+
